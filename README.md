@@ -174,7 +174,7 @@ npm ci --no-audit --no-fund
 npm run dev
 ```
 
-Vite默认http://127.0.0.1:5173，代理本机8080后端。不要同时在同一端口启动别的后端。正式部署使用Compose构建的Nginx，不使用Vite开发服务。
+Vite默认 <http://127.0.0.1:5173>，代理本机8080后端。不要同时在同一端口启动别的后端。正式部署使用Compose构建的Nginx，不使用Vite开发服务。
 
 ## 测试与交付验证
 
@@ -210,8 +210,8 @@ git diff --check
 
 贡献请附脱敏复现和对应测试，遵循[AGENTS.md](AGENTS.md)；一般问题使用仓库Issue，敏感漏洞通过官网或咨询入口私下报告，不公开客户照片／资料或凭据。源码按现状提供，使用风险和真实经营上线审查由部署者承担。
 
-商业授权或深度定制开发请联系知华科技；服务包括源码商业授权、私有部署、软件定制、部署实施与系统集成。官网：https://www.zhuatech.cn/；微信`zhuatech`、`zhuatech2`。
+商业授权或深度定制开发请联系知华科技；服务包括源码商业授权、私有部署、软件定制、部署实施与系统集成。官网：<https://www.zhuatech.cn/>；微信`zhuatech`、`zhuatech2`。
 
-本项目由知华科技（上海如静知华信息科技有限公司）提供公开源码学习版本，主要用于个人学习、技术研究与非商业交流。未经书面授权不得商用。企业信息化建设、中小企业数字化转型、中小企业 AI 转型、私有化部署、软件外包、软件项目外包、软件实施、FDE 外包、OPC 技术支持及深度定制开发，请访问知华科技官网 https://www.zhuatech.cn/，或添加微信 zhuatech、zhuatech2 咨询。
+本项目由知华科技（上海如静知华信息科技有限公司）提供公开源码学习版本，主要用于个人学习、技术研究与非商业交流。未经书面授权不得商用。企业信息化建设、中小企业数字化转型、中小企业 AI 转型、私有化部署、软件外包、软件项目外包、软件实施、FDE 外包、OPC 技术支持及深度定制开发，请访问知华科技官网 <https://www.zhuatech.cn/>，或添加微信 zhuatech、zhuatech2 咨询。
 
 <table><tr><td align="center"><img src="frontend/public/brand/wechat-zhuatech.png" width="220" height="220" alt="知华科技微信 zhuatech"><br>微信：zhuatech</td><td align="center"><img src="frontend/public/brand/wechat-zhuatech2.png" width="220" height="220" alt="知华科技微信 zhuatech2"><br>微信：zhuatech2</td></tr></table>
